@@ -1,0 +1,18 @@
+\begin{thebibliography}{2}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Christ(0)]{theBook}
+Jesus Christ.
+\newblock \emph{The Bible}.
+\newblock The holy spirit, 0.
+
+\bibitem[GOD and Moses(-1445)]{the10rules}
+GOD and Moses.
+\newblock The ten commandments.
+\newblock 12\penalty0 (3):\penalty0 144000, -1445.
+
+\end{thebibliography}

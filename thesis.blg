@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: thesis.aux
+The style file: plainnat.bst
+Database file #1: references.bib
+Warning--empty journal in the10rules
+You've used 2 entries,
+            2773 wiz_defined-function locations,
+            604 strings with 4952 characters,
+and the built_in function-call counts, 758 in all, are:
+= -- 60
+> -- 31
+< -- 2
++ -- 11
+- -- 9
+* -- 52
+:= -- 123
+add.period$ -- 6
+call.type$ -- 2
+change.case$ -- 8
+chr.to.int$ -- 2
+cite$ -- 5
+duplicate$ -- 40
+empty$ -- 72
+format.name$ -- 13
+if$ -- 153
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 3
+newline$ -- 18
+num.names$ -- 8
+pop$ -- 22
+preamble$ -- 1
+purify$ -- 7
+quote$ -- 0
+skip$ -- 29
+stack$ -- 0
+substring$ -- 22
+swap$ -- 1
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 17
+warning$ -- 1
+while$ -- 7
+width$ -- 0
+write$ -- 31
+(There was 1 warning)
